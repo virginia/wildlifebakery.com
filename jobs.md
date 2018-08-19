@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Jobs
-permalink: /jobs/
+permalink: "/jobs/"
+layout: page
 ---
 
 (jobs)
